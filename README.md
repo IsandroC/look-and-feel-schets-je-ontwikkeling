@@ -5,7 +5,7 @@ In deze repo vind je een praatplaat over mijn ontwikkeling in de eerste drie blo
 <img src="https://user-images.githubusercontent.com/112857131/213016097-7abffefa-98f7-4a49-9ce1-58d2b8eefe25.jpg" width="70%">
 
 ## Metafoor
-De praatplaat moet een bordspel voorstellen dat moeilijker word hoe verder je komt. Het groene geeft aan wat makkelijk ging en het rode laat zien waar ik moeite mee had. de Raket laat zien dat er kennis was die ik al een beetje onder die knie had waardoor ik als het ware een paar levels kon "overslaan". De vallende ster laat zien dat ik er nogal wat moeite mee had en me een aantal levels terug bracht.
+De praatplaat moet een bordspel voorstellen dat moeilijker word hoe verder je komt. Het groene geeft aan wat makkelijk ging en het rode laat zien waar ik moeite mee had. de Raket laat zien dat er kennis was die ik al een beetje onder die knie had waardoor ik als het ware een paar levels kon "overslaan". De vallende ster laat zien dat ik er nogal wat moeite mee had en me een aantal levels terug bracht. Ook zie je een paar gewichten bij het einde van het bordspel die is een metafoor voor het oefenen en trainen met de betreffende onderwerpen en vaardigheden.
 
 ## Licentie
 
