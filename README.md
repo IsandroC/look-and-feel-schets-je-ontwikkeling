@@ -1,6 +1,3 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Schets je ontwikkeling
 In deze repo vind je een praatplaat over mijn ontwikkeling in de eerste 3 blokken van dit jaar. In de praatplaat kijk ik terug naar wat er goed en minder goed ging en kijk ik ook naar mijn doelen voor de komende blokken.
 
